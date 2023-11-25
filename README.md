@@ -1,7 +1,7 @@
 ## API Design: Render, Manage, Manipulate Trees on Webpage
 
 This service manages and manipulates trees.
-Within the Python directory, there is a README.md with the following information:
+Within the Python directory, there is a `README.md` with the following information:
 1. How to set up this service
 2. How to run this service
 3. Design choices made along the way
